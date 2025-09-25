@@ -109,18 +109,15 @@ Empresas: Organizações de diversos portes e setores que desejam propor projeto
 
 <img width="1456" height="608" alt="image" src="https://github.com/user-attachments/assets/6fb1a8db-30eb-49c7-b196-467c84acdfd9" />
 
-# Diagrama em Plantuml
+### Diagramas e Telas do Projeto
 
-# Home
-<img width="1681" height="1449" alt="image" src="https://github.com/user-attachments/assets/8f7074b9-ed96-40da-bf6d-f3fdb7d2e15d" />
-# Sobre
-<img width="1343" height="1028" alt="image" src="https://github.com/user-attachments/assets/5749aaa1-7075-413d-b68c-0d78515a57fa" />
-# Contato
-<img width="1343" height="1028" alt="image" src="https://github.com/user-attachments/assets/1db7fd25-33dc-486d-ac33-53cc32817aef" />
-# FAQ
-<img width="1343" height="1028" alt="image" src="https://github.com/user-attachments/assets/1f31e3b1-b695-4e5a-8999-29e04b1658e0" />
-# Cases
-<img width="1503" height="1028" alt="image" src="https://github.com/user-attachments/assets/6b5db783-6d5a-4e7f-8c7e-80dd6353b239" />
+| Home | Sobre |
+| :---: | :---: |
+| <img src="https://github.com/user-attachments/assets/8f7074b9-ed96-40da-bf6d-f3fdb7d2e15d" alt="Tela da Home Page" width="400"> | <img src="https://github.com/user-attachments/assets/5749aaa1-7075-413d-b68c-0d78515a57fa" alt="Tela da página Sobre" width="400"> |
+| **Contato** | **FAQ** |
+| <img src="https://github.com/user-attachments/assets/1db7fd25-33dc-486d-ac33-53cc32817aef" alt="Tela da página de Contato" width="400"> | <img src="https://github.com/user-attachments/assets/1f31e3b1-b695-4e5a-8999-29e04b1658e0" alt="Tela da página de FAQ" width="400"> |
+| **Cases** | |
+| <img src="https://github.com/user-attachments/assets/6b5db783-6d5a-4e7f-8c7e-80dd6353b239" alt="Tela da página de Cases" width="400"> | |
 
 
 
