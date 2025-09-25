@@ -148,3 +148,5 @@ Horário de término: 19:00
 **Encerramento:**
 Horário de término: 12h00
 
+# DIagrama 
+
