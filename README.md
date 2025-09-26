@@ -163,3 +163,8 @@ Horário de término: 19:00
 
 **Encerramento:**
 Horário de término: 12h00
+
+
+# Mockup 
+
+![Screenshot_2025-09-26-06-38-49-555_com android chrome-edit](https://github.com/user-attachments/assets/1fc4d2d2-eb58-459a-8372-a2a65f02bb94)
